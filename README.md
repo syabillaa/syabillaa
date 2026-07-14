@@ -1,24 +1,158 @@
-# 💫 About Me:
-Hi there! I'm Syabilla Maharani 👋<br>I am an Informatics Engineering undergraduate student and an aspiring Full-Stack Developer. I love bridging the gap between user interfaces and robust backend logic, focusing on building complete, scalable, and efficient web applications from the ground up.<br>🌱 Currently focused on: Mastering modern full-stack frameworks and advanced database architecture.<br>⚡ What I do: Crafting seamless user experiences on the frontend and structuring solid, optimized code on the backend.<br>💼 Open to: Open-source collaborations, tech internships, and full-stack projects.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Syabilla%20Maharani&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syabiiilla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syabilla-maharani-b19367314) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@210things) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syabilla.maharani01@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;UI%2FUX+Designer;Motion+Graphic+Designer;Open+Source+Enthusiast;Always+Learning+Something+New"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=syabillaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=syabillaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=syabillaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+<img src="https://komarev.com/ghpvc/?username=syabillaa&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/syabillaa?style=for-the-badge&logo=github&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/syabillaa?style=for-the-badge&logo=github&color=EC4899"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=syabillaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=syabillaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 👋 Hello World!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```cpp
+class SyabillaMaharani {
+
+public:
+
+string role = "Full Stack Developer";
+
+string education = "Informatics Engineering";
+
+vector<string> currentlyLearning = {
+"Next.js",
+"Laravel",
+"Express",
+"Cloud Computing",
+"System Design",
+"Database Architecture"
+};
+
+vector<string> hobbies = {
+"Coding",
+"UI/UX Design",
+"Motion Graphics",
+"Photography",
+"Coffee",
+"Music"
+};
+
+void sayHi(){
+
+cout<<"Building beautiful experiences with clean code.";
+
+}
+
+};
+```
+
+---
+
+# 💫 About Me
+
+✨ Informatics Engineering Undergraduate
+
+💻 Passionate about creating modern and scalable web applications.
+
+🎨 I enjoy combining programming with visual creativity through UI/UX and motion graphics.
+
+🚀 Currently learning advanced backend development, cloud deployment, and software architecture.
+
+🌱 Open for internships, collaborations, and exciting open-source projects.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/syabiiilla">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://linkedin.com/in/syabilla-maharani-b19367314">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:syabilla.maharani01@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,php,laravel,java,cpp,python,mysql,supabase,git,github,bootstrap,figma,vscode,vercel,gcp,blender,ps,ai,ae,pr&perline=9"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=syabillaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syabillaa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="97%" src="https://github-readme-streak-stats.herokuapp.com?user=syabillaa&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=syabillaa&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syabillaa&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# ✨ Favorite Quote
+
+<p align="center">
+
+<i>
+
+"Great software is built not only with logic,
+but also with creativity."
+
+</i>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+
+</div>
